@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Coho",
+    "image": "/image/coho.png",
+    "latinName": "",
+    "averageWeight": "",
+    "averageSize": "",
+    "lifeCycle": "",
+    "funFact1": "",
+    "funFact2": "",
+    "funFact3": "",
+    "funFact4": "",
+    "funFact5": ""
+  },
+  {
+    "id": "2",
+    "name": "Chinook",
+    "image": "/image/coho.png",
+    "latinName": "",
+    "averageWeight": "",
+    "averageSize": "",
+    "lifeCycle": "",
+    "funFact1": "",
+    "funFact2": "",
+    "funFact3": "",
+    "funFact4": "",
+    "funFact5": ""
+  },
+  {
+    "id": "3",
+    "name": "Pink",
+    "image": "/image/coho.png",
+    "latinName": "",
+    "averageWeight": "",
+    "averageSize": "",
+    "lifeCycle": "",
+    "funFact1": "",
+    "funFact2": "",
+    "funFact3": "",
+    "funFact4": "",
+    "funFact5": ""
+  },
+  {
+    "id": "4",
+    "name": "Sockeye",
+    "image": "/image/coho.png",
+    "latinName": "",
+    "averageWeight": "",
+    "averageSize": "",
+    "lifeCycle": "",
+    "funFact1": "",
+    "funFact2": "",
+    "funFact3": "",
+    "funFact4": "",
+    "funFact5": ""
+  },
+  {
+    "id": "5",
+    "name": "Chum",
+    "image": "/image/coho.png",
+    "latinName": "",
+    "averageWeight": "",
+    "averageSize": "",
+    "lifeCycle": "",
+    "funFact1": "",
+    "funFact2": "",
+    "funFact3": "",
+    "funFact4": "",
+    "funFact5": ""
+  }
+]
