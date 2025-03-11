@@ -2,10 +2,18 @@
   {
     "id": "1",
     "question": "How many salmon species are in British Columbia?",
-    "answer": "b",
-    "number": "1",
+    "answer": "5",
     "a": "4",
     "b": "5",
+    "c": "6",
+    "d": "8"
+  },
+  {
+    "id": "2",
+    "question": "All salmon species begin their lives in freshwater, streams, rivers, or lakes? True or false.",
+    "answer": "True",
+    "a": "True",
+    "b": "False",
     "c": "6",
     "d": "8"
   }
