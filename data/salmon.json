@@ -53,25 +53,25 @@
     "averageWeight": "2 kg (4 lbs)",
     "averageSize": "35 cm - 46 cm (14 inches - 18 inches)",
     "lifeCycle": "2 years",
-    "appearance": "Shiny silvery skin, Large black oval spots on the back and tail",
-    "funFact1": "",
-    "funFact2": "",
-    "funFact3": "",
-    "funFact4": ""
+    "appearance": "Shiny silvery skin, Large black oval spots on the back and tail, develop a hump on their back when spawning, very small scales",
+    "funFact1": "Pink salmon fry migrate to the sea as soon as they emerge from the gravel and live almost their entire two years in ocean feeding areas. Adults leave the ocean in the late summer and early fall and usually spawn in streams, not fed by lakes, that are a short distance from the sea.",
+    "funFact2": "Pink salmon are the smallest of the Pacific salmon found in North America. They weigh between 3.5 and 5 pounds, and are 20 to 25 inches long. ",
+    "funFact3": "Pink salmon have the shortest lifespan of all Pacific salmon, completing their life cycle in just two years. ",
+    "funFact4": "Pink salmon hatch in freshwater streams and rivers, then migrate to the ocean to feed and grow. "
   },
   {
     "id": "5",
-    "name": "Chum",
-    "image": "/images/chum.png",
-    "otherNames": "",
-    "latinName": "",
-    "averageWeight": "",
-    "averageSize": "",
-    "lifeCycle": "",
-    "appearance": "",
-    "funFact1": "",
-    "funFact2": "",
-    "funFact3": "",
-    "funFact4": ""
+    "name": "Sockeye",
+    "image": "/images/sockeye.png",
+    "otherNames": "Red Salmon (when canned)",
+    "latinName": "Oncorhynchus nerka",
+    "averageWeight": "2.7 kg (6 lbs)",
+    "averageSize": "51 cm – 61 cm (20 inches – 24 inches)",
+    "lifeCycle": "5 years",
+    "appearance": "Small black speckles on its deep blue-green back and silver sides, No spots on the tail, Slender and firm body, Develop a bright red body and green head when spawning, Large and distinct scales.",
+    "funFact1": "Sockeye spawn in streams with lakes in their watershed and stay in those lakes for one to three years before migrating to sea. They move rapidly out of the estuaries and thousands of miles into the Gulf of Alaska and North Pacific Ocean where they feed. They return to their spawning stream when they are three to, at times, even six years old.",
+    "funFact2": "The name sockeye may come from the Coast Salish word 'sukkai'",
+    "funFact3": "The Fraser, Skeena, Nass, Stikine, Taku, and Alsek watersheds are major spawning grounds for sockeye salmon. ",
+    "funFact4": "Sockeye salmon only spawn once in their lives, and die shortly after."
   }
 ]
