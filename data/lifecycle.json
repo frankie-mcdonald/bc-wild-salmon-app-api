@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "header": "Eggs",
+    "image": "/images/egg.png",
+    "text": "Salmon start as egg buried in fresh gravel nests in freshwater rivers."
+  },
+  {
+    "id": "2",
+    "header": "Alevin",
+    "image": "/images/alevin.png",
+    "text": "The eggs hatch and become Alevins. Tiny fish with attached yolk sacs for nourishment, which will remain in the gravel for a few months."
+  },
+  {
+    "id": "3",
+    "header": "Fry",
+    "image": "/images/fry.png",
+    "text": "Once the yolk sacs are absorbed, the Alevins emerge from the gravel as Fry, small salmon that live in freshwater streams."
+  },
+  {
+    "id": "4",
+    "header": "Parr",
+    "image": "/images/parr.png",
+    "text": "Parr are several months old and develop 'finger' markings."
+  },
+  {
+    "id": "5",
+    "header": "Smolt",
+    "image": "/images/smolt.png",
+    "text": "When parr are ready to migrate to the ocean, they undergo a physiological change called smoltification, adapting to saltwater. These smolts, which are silvery in color, migrate to estuaries and then the ocean."
+  },
+  {
+    "id": "6",
+    "header": "Adult",
+    "image": "/images/coho.png",
+    "text": "Salmon spend several years (depending on the species) in the ocean, feeding on small fish, squid, eels, and shrimp. "
+  },
+  {
+    "id": "7",
+    "header": "Spawning Adult",
+    "image": "/images/spawning.png",
+    "text": "As adults, salmon migrate back to their natal freshwater streams to spawn. They stop feeding and use stored fat reserves during this journey. Female salmon dig redds (nests) to lay their eggs, which are then fertilized by males. After spawning, salmon die, their bodies providing nutrients to the freshwater ecosystem. "
+  }
+]
