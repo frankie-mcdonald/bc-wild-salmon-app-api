@@ -2,6 +2,7 @@ import express from "express";
 import cors from "cors";
 import salmonRoute from "./routes/salmontRoute.js";
 import quizRoute from "./routes/quizRoute.js";
+import lifecycleRoute from "./routes/lifecycleRoute.js";
 
 import "dotenv/config";
 
@@ -16,6 +17,7 @@ app.use(express.static("public")); // Serve static files from the "public" folde
 // ---Routes---
 app.use("/salmon", salmonRoute);
 app.use("/quiz", quizRoute);
+app.use("/lifecycle", lifecycleRoute);
 
 // ---Home Route---
 app.get("/", (req, res) => {
