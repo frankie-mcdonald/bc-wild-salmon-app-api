@@ -6,7 +6,8 @@
     "a": "4",
     "b": "5",
     "c": "6",
-    "d": "8"
+    "d": "8",
+    "fact": "There are 5 species of salmon in British Columbia. Coho, Chinook, Pink Salmin, Chum, and Sockeye!"
   },
   {
     "id": "2",
@@ -14,7 +15,6 @@
     "answer": "True",
     "a": "True",
     "b": "False",
-    "c": "6",
-    "d": "8"
+    "fact": "All salmon species DO begin their lives in freshwater, streams, rivers, or lakes!"
   }
 ]
